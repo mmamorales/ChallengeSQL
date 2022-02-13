@@ -1,3 +1,3 @@
 # ChallengeSQL
 Challenge SQL  
-Motor utilizado:Microsoft SQL Server
+Motor utilizado: Microsoft SQL Server
